@@ -1,4 +1,4 @@
-## Welcome to Oracol substrate Pages
+## Welcome to Oracol Substrate Pages
 
 Here we will post a series of tutorials that will help you navigate the various functions on the Web wallet.
 ### Support or Contact
